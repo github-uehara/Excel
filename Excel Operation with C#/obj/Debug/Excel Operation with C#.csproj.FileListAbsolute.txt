@@ -1,0 +1,12 @@
+C:\Users\DC-PCN1139\source\repos\Excel Operation with C#\Excel Operation with C#\bin\Debug\Excel Operation with C#.exe.config
+C:\Users\DC-PCN1139\source\repos\Excel Operation with C#\Excel Operation with C#\bin\Debug\Excel Operation with C#.exe
+C:\Users\DC-PCN1139\source\repos\Excel Operation with C#\Excel Operation with C#\bin\Debug\Excel Operation with C#.pdb
+C:\Users\DC-PCN1139\source\repos\Excel Operation with C#\Excel Operation with C#\obj\Debug\Excel Operation with C#.csproj.AssemblyReference.cache
+C:\Users\DC-PCN1139\source\repos\Excel Operation with C#\Excel Operation with C#\obj\Debug\Excel Operation with C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\DC-PCN1139\source\repos\Excel Operation with C#\Excel Operation with C#\obj\Debug\Excel Operation with C#.csproj.ResolveComReference.cache
+C:\Users\DC-PCN1139\source\repos\Excel Operation with C#\Excel Operation with C#\obj\Debug\Excel_Operation_with_C_.Form1.resources
+C:\Users\DC-PCN1139\source\repos\Excel Operation with C#\Excel Operation with C#\obj\Debug\Excel_Operation_with_C_.Properties.Resources.resources
+C:\Users\DC-PCN1139\source\repos\Excel Operation with C#\Excel Operation with C#\obj\Debug\Excel Operation with C#.csproj.GenerateResource.cache
+C:\Users\DC-PCN1139\source\repos\Excel Operation with C#\Excel Operation with C#\obj\Debug\Excel Operation with C#.csproj.CoreCompileInputs.cache
+C:\Users\DC-PCN1139\source\repos\Excel Operation with C#\Excel Operation with C#\obj\Debug\Excel Operation with C#.exe
+C:\Users\DC-PCN1139\source\repos\Excel Operation with C#\Excel Operation with C#\obj\Debug\Excel Operation with C#.pdb

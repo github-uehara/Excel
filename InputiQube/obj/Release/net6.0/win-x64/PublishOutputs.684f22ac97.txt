@@ -1,0 +1,5 @@
+C:\Users\DC-PCN1139\source\repos\Excel Operation with C#\InputiQube\bin\Release\net6.0\publish\win-x64\InputiQube.pdb
+C:\Users\DC-PCN1139\source\repos\Excel Operation with C#\InputiQube\bin\Release\net6.0\publish\win-x64\selenium-manager\linux\selenium-manager
+C:\Users\DC-PCN1139\source\repos\Excel Operation with C#\InputiQube\bin\Release\net6.0\publish\win-x64\selenium-manager\macos\selenium-manager
+C:\Users\DC-PCN1139\source\repos\Excel Operation with C#\InputiQube\bin\Release\net6.0\publish\win-x64\selenium-manager\windows\selenium-manager.exe
+C:\Users\DC-PCN1139\source\repos\Excel Operation with C#\InputiQube\bin\Release\net6.0\publish\win-x64\InputiQube.exe

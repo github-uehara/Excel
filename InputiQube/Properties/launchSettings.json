@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InputiQube": {
+      "commandName": "Project",
+      "commandLineArgs": "FromiQubeToExcel C:\\Users\\DC-PCN1139\\OneDrive\\デスクトップ\\InputiQube_v2 k.uehara32@dcom-net.jp pass1234q"
+    }
+  }
+}
